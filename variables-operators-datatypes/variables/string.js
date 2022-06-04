@@ -1,0 +1,10 @@
+var x="  Eftekher Ali";
+var y="Efte";
+var z=x+y;
+console.log(z);
+console.log(z.length);
+console.log("Zijan".length);
+console.log(x[0]);
+console.log(x.toUpperCase());
+console.log(x.toLowerCase());
+console.log(x.trim());

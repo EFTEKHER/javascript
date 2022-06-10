@@ -1,0 +1,22 @@
+//Math object
+let val;
+val=Math.PI;
+console.log(val);
+val=Math.E;
+console.log(val);
+val=Math.ceil(1.4);
+console.log(val);
+val=Math.floor(1.9);
+console.log(val);
+val=Math.sqrt(81);
+console.log(val);
+val=Math.abs(-8);
+console.log(val);
+val=Math.pow(3,3);
+console.log(val);
+val=Math.min(1,9,-6,0,8);
+console.log(val);
+val=Math.random();
+console.log(val);
+val=Math.floor(Math.random()*100+1);
+console.log(val);
